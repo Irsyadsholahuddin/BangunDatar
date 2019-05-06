@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bangun Datar</string>
+    <string name="Hasil">Hasil</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="alas">Alas</string>
+    <string name="hasil">hasil</string>
+    <string name="luas_jajargenjang">luas jajargenjang</string>
+    <string name="luas_persegi">luas Persegi</string>
+    <string name="sisi2">sisi2</string>
+    <string name="sisi1">sisi1</string>
+</resources>

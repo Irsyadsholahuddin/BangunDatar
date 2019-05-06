@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/Alas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alas" />
+
+        <EditText
+            android:id="@+id/Tinggi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tinggi" />
+
+        <Button
+            android:id="@+id/Luas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/luas_jajargenjang" />
+
+        <TextView
+            android:id="@+id/Hasil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="@string/hasil" />
+</LinearLayout>

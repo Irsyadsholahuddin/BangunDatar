@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="alas" type="id">alas</item>
+    <item name="tinggi" type="id">tinggi</item>
+    <item name="hasil" type="id">hasil</item>
+    <item name="luas" type="id">luas</item>
+</resources>
